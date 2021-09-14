@@ -1,14 +1,5 @@
-.theme {
-  color: #DDD1C7;
-  color: #C9BEB5;
-  color: #C2CFB2;
-  color: #8DB580;
-  color: #7E8987;
-  color: #4B4A67;
-}
-
 .Body {
-  background-color: #4B4A67;
+  background-color: #071330;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -34,17 +25,17 @@
   width: auto;
   height: 180px;
   border-radius: 180px;
-  border: 5px solid #8DB580;
+  border: 5px solid #738FA7;
 }
 
 .Header > .Header-name {
-  color: #C9BEB5;
+  color: ##C3CEDA;
   font-size: 32px;
   text-transform: uppercase;
 }
 
 .Header > .Header-title {
-  color: #C9BEB5;
+  color: ##C3CEDA;
   font-size: 22px;
 }
 
@@ -56,13 +47,13 @@
   }
 
   .Header > .Header-name {
-    color: #C9BEB5;
+    color: ##C3CEDA;
     font-size: 22px;
     text-transform: uppercase;
   }
   
   .Header > .Header-title {
-    color: #C9BEB5;
+    color: ##C3CEDA;
     font-size: 12px;
   }
 

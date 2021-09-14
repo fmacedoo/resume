@@ -33,7 +33,7 @@ export default function Rate({ name, value = 1, max = 5 }) {
       <Name>{name}</Name>
       <Icons>
       {
-        Array.apply(null, { length: value }).map((o, i) => (<Icon key={i} color="#8DB580" />))
+        Array.apply(null, { length: value }).map((o, i) => (<Icon key={i} color="#738FA7" />))
       }
       {
         Array.apply(null, { length: max - value }).map((o, i) => (<Icon key={i} color="#DDD1C7" />))

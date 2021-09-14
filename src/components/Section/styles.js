@@ -35,7 +35,7 @@ export const Name = styled.span`
 `;
 
 export const Title = styled.span`
-    color: #8DB580;
+    color: #738FA7;
     text-align: justify;
 `;
 
@@ -67,7 +67,7 @@ export const ContactType = styled.span`
 `;
 
 export const ContactValue = styled.a`
-    color: #8DB580;
+    color: #738FA7;
 `;
 
 export const Contact = styled.div.attrs(props => ({
