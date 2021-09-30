@@ -1,14 +1,14 @@
 {
     "name": "Filipe Macêdo",
-    "title": "Sênior Developer",
-    "location": "João Pessoa Area, Brazil",
+    "title": "Sênior Software Engineer",
+    "location": "📌 Where I reach the Wi-Fi",
     "about": "Something like more than 10 years of programming, web and mobile apps, leading, testing, data modeling, analyzing, problem-solving, and team collaborating. Pretty focused on dotnetcore, javascript, and the libraries amongst them.",
     "contacts": [
-        { "type": "Email", "value": "fmacedoo@gmail.com" }
+        { "type": "'e-mail'", "value": "fmacedoo@gmail.com" }
     ],
     "social": [
         { "type": "LinkedIn", "value": "/in/fmacedoo/" },
-        { "type": "Github", "value": "/fmacedoo/" }
+        { "type": "GitHub", "value": "/fmacedoo/" }
     ],
     "education": [
         { 
