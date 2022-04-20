@@ -21,20 +21,17 @@
     "experiences": [
         { 
             "title": "Senior Software Engineer",
-            "company": "Farfetch",
-            "location": "Porto, Portugal",
+            "company": "Sortium Blockchain Studio",
+            "location": "Miami, Florida",
             "current": true,
-            "period": { "start": "October 2019" },
-            "image": "https://media-exp1.licdn.com/dms/image/C4E0BAQGkJIfN05ml4w/company-logo_100_100/0/1599657656969?e=1639612800&v=beta&t=BXYatVPdB_yzxDEjgLqvx39NTBxAeDtA3SB57lAAiBk",
+            "period": { "start": "February 2022" },
+            "image": "https://media-exp1.licdn.com/dms/image/C4E0BAQEQypnoGqgAYQ/company-logo_100_100/0/1637955505226?e=2147483647&v=beta&t=H01Ls39ECTtpMqJiUfBsnHkvGzrFsBPPDJfZKTf4-cU",
             "descriptions": [
-                "Worked with React and Next.js.",
-                "Built React library of UI Components following branding guidelines.",
-                "Worked with storybook, PostCSS, and styled-components.",
-                "Worked with Google Analytics custom audience data collection.",
-                "Worked with .NET Core REST services.",
-                "Worked with OrchardCMS for .NET Core.",
-                "Built .NET Core BOT services with LUIS and QnA.",
-                "Managed pipelines with Jenkins Pipelines."
+                "Working with React and Next.js.",
+                "Working with Firebase products like Firestore, and Cloud Functions.",
+                "Working with payment gateways integrations.",
+                "Working with blockchain integrations to handle NFTs on a marketplace.",
+                "Working with fraud prevention services integrations."
             ]
         },
         { 
@@ -45,9 +42,30 @@
             "period": { "start": "October 2018" },
             "image": "https://media-exp2.licdn.com/media-proxy/ext?w=1024&h=512&f=n&hash=QoT3JsjbjUIRNUgKyCwzKHE1aFY%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWi8ecTafOaho0AWLnlVjQA7euq1ETTgEo6_LYi9etlx2sPsJZj5agYUbhl4j3lK6w",
             "descriptions": [
-                "Working on projects  using  Node.JS,  React  and  React  Native.  Full  stack but focused pretty much at front-end, taking care about UI/UX.",
-                "Leading a small team of 3 developers using Trello.",
-                "Dealing with clients and meeting with them regard the main product, a public app for the citizens to help them suggest improvements to their cities."
+                "Created REST services with Node.js.",
+                "Created Web applications using React.",
+                "Created Mobile applications using React Native.",
+                "Managed AWS Services as EC2, CodePipelines, CodeBuild, and Elastic Beanstalk.",
+                "Led a small team of 3 developers on Trello."
+            ]
+        },
+        { 
+            "title": "Senior Software Engineer",
+            "company": "Farfetch",
+            "location": "Porto, Portugal",
+            "current": false,
+            "period": { "start": "October 2019", "end": "April 2022" },
+            "image": "https://media-exp1.licdn.com/dms/image/C4E0BAQGkJIfN05ml4w/company-logo_100_100/0/1599657656969?e=1639612800&v=beta&t=BXYatVPdB_yzxDEjgLqvx39NTBxAeDtA3SB57lAAiBk",
+            "descriptions": [
+                "Worked with React and Next.js.",
+                "Built React library of UI Components following branding guidelines.",
+                "Worked with storybook, PostCSS, and styled-components.",
+                "Worked with Google Analytics custom audience data collection.",
+                "Worked with .NET Core REST services.",
+                "Worked with OrchardCMS for .NET Core.",
+                "Built .NET Core BOT services with LUIS and QnA.",
+                "Managed pipelines with Jenkins Pipelines.",
+                "Led security issues with the team."
             ]
         },
         { 
@@ -120,16 +138,16 @@
     ],
     "skills": [
         { "name": "Javascript", "rate": 5 },
-        { "name": "Node.Js/Express", "rate": 4 },
+        { "name": "Node.Js/Express/Next.Js", "rate": 5 },
         { "name": "React", "rate": 5 },
         { "name": "React Native", "rate": 4 },
-        { "name": "Typescript", "rate": 5 },
-        { "name": "C#", "rate": 5 },
-        { "name": ".NET Core", "rate": 5 },
+        { "name": "Typescript", "rate": 4 },
+        { "name": "C#", "rate": 4 },
+        { "name": ".NET Core", "rate": 4 },
         { "name": "Xamarin/Forms", "rate": 3 },
         { "name": "Frontend", "rate": 5 },
         { "name": "Backend", "rate": 5 },
         { "name": "iOS/Enviroment", "rate": 4 },
-        { "name": "Android/Enviroment", "rate": 2 }
+        { "name": "Android/Enviroment", "rate": 3 }
     ]
 }
