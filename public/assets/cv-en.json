@@ -2,7 +2,7 @@
     "name": "Filipe Macêdo",
     "title": "Sênior Software Engineer",
     "location": "📌 Where I reach the Wi-Fi",
-    "about": "Something like more than 10 years of programming, web and mobile apps, leading, testing, data modeling, analyzing, problem-solving, and team collaborating. Pretty focused on dotnetcore, javascript, and the libraries amongst them.",
+    "about": "Something like 15 years of programming, web and mobile apps, leading, testing, data modeling, analyzing, problem-solving, and team collaboration. Pretty focused on javascript, and recently investigated Rust lang.",
     "contacts": [
         { "type": "'e-mail'", "value": "fmacedoo@gmail.com" }
     ],
@@ -27,11 +27,17 @@
             "period": { "start": "February 2022" },
             "image": "https://media-exp1.licdn.com/dms/image/C4E0BAQEQypnoGqgAYQ/company-logo_100_100/0/1637955505226?e=2147483647&v=beta&t=H01Ls39ECTtpMqJiUfBsnHkvGzrFsBPPDJfZKTf4-cU",
             "descriptions": [
-                "Working with React and Next.js.",
-                "Working with Firebase products like Firestore, and Cloud Functions.",
-                "Working with payment gateways integrations.",
-                "Working with blockchain integrations to handle NFTs on a marketplace.",
-                "Working with fraud prevention services integrations."
+                "React and Next.js",
+                "NestJS",
+                "Firebase products like Firestore, and Cloud Functions",
+                "GraphQL & Hasura",
+                "Payment gateways integrations (Wyre, Checkout)",
+                "Blockchain integrations (AVAX, ETH)",
+                "NFTs marketplace",
+                "Fraud prevention services integrations",
+                "DevOps over AWS services",
+                "Database migration (firebase -> postgres)",
+                "Hasura integration (Graphql)"
             ]
         },
         { 
